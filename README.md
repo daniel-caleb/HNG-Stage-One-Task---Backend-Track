@@ -45,3 +45,5 @@ This project sets up a basic Django web server that exposes an API endpoint to g
 
 ```
 GET /api/hello/
+```
+![weather](https://github.com/daniel-caleb/HNG-Stage-One-Task---Backend-Track/assets/95380895/50a86d60-0b36-4d1c-aadd-de59e513a971)
