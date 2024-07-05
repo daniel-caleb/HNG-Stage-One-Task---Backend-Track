@@ -33,16 +33,15 @@ This project sets up a basic Django web server that exposes an API endpoint to g
 
 4. Set up environment variables:
 
-Obtain an API key from OpenWeatherMap (https://home.openweathermap.org/users/sign_up)
-Set your API key in the environment variable OPENWEATHER_API_KEY (e.g., export OPENWEATHER_API_KEY='your_openweather_api_key')
+- Obtain an API key from OpenWeatherMap (https://home.openweathermap.org/users/sign_up)
+- Set your API key in the environment variable OPENWEATHER_API_KEY (e.g., export OPENWEATHER_API_KEY='your_openweather_api_key')
 
 5. Start the development server:
 
     ```bash
     python manage.py runserver
 
-
 ## Usage
 
-    ```bash
-    GET /api/hello/
+```
+GET /api/hello/
