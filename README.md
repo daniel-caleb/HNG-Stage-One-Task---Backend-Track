@@ -17,7 +17,7 @@ This project sets up a basic Django web server that exposes an API endpoint to g
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/daniel-caleb/HNG-Stage-One-Task---Backend-Track.git
    cd my_web_server
 
 2. Set up a virtual environment (optional but recommended):
